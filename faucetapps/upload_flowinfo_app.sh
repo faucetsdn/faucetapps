@@ -1,5 +1,6 @@
 #!/bin/sh
 ## @author: shivaram.mysore@gmail.com
+# Copyright (C) 2015--2017 The Contributors
 
 ## to install Couchapp, run command: pip install couchapp
 

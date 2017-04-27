@@ -1,3 +1,5 @@
+// Copyright (C) 2015--2017 The Contributors
+
 var w = $(window).width() - 10,
     h = 600,
     x = d3.scale.linear().range([0, w]),
