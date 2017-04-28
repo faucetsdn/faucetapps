@@ -12,7 +12,7 @@ Faucet allows apps that can be written to CouchDB (flows) and InfluxDB (stats). 
           .
 List of Applications:
 
-   1. `Flowinfo <flowinfo/>`_ - provides flows on different switches across various tables.
+   1. `Flowinfo <faucetapps/flowinfo/>`_ - provides flows on different switches across various tables.
 
 
 
